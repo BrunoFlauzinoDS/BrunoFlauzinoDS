@@ -1,4 +1,4 @@
-# Olá, meu nome é Bruno Flauzino. Seja bem vindo(a) ao meu perfil!
+# **Olá, meu nome é _Bruno Flauzino_. Seja bem vindo(a) ao meu perfil!**
 
 <div align="center">
   <a href="https://github.com/BrunoFlauzinoDS">
