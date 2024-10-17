@@ -15,6 +15,8 @@
   <img align="center" alt="Bruno-Numpy" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img align="center" alt="Bruno-Pandas" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
+  <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
   
 ##
