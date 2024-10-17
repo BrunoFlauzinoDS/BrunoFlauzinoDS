@@ -17,6 +17,8 @@
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
+  <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
 </div>
   
 ##
