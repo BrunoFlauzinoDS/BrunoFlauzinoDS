@@ -9,14 +9,14 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-MySQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Bruno-Jupyter" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Bruno-Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Bruno-MySQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Bruno-Numpy" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img align="center" alt="Bruno-Pandas" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-  <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" />
   <img align="center" alt="Bruno-Anaconda" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
 </div>
