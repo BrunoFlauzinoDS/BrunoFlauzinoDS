@@ -43,5 +43,6 @@
 
 - Estudar
 - Ler
-- Jogar Videogame
+- Ouvir Música
+- Toca Violão
 - Assistir séries e filmes
