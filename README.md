@@ -46,3 +46,5 @@
 - Ouvir Música
 - Toca Violão
 - Assistir séries e filmes
+- Musculação
+- Corrida
